@@ -536,3 +536,4 @@ function getDistance(location, currPoint) {
 console.log(getDistance(locations, currentPoint));
 */
 
+console.log();
